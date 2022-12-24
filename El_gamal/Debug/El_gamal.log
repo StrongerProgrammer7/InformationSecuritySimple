@@ -1,0 +1,4 @@
+﻿  El_gamal.cpp
+D:\High-level prommaing\C++\5 semestr\LB11-14\El_gamal\El_gamal.cpp(167,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\El_gamal\El_gamal.cpp(187,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  El_gamal.vcxproj -> D:\High-level prommaing\C++\5 semestr\LB11-14\El_gamal\Debug\El_gamal.exe
