@@ -1,0 +1,5 @@
+﻿  Stribog.cpp
+D:\High-level prommaing\C++\5 semestr\LB11-14\Stribog\Stribog.cpp(366,29): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+D:\High-level prommaing\C++\5 semestr\LB11-14\Stribog\Stribog.cpp(372,46): warning C4244: аргумент: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+D:\High-level prommaing\C++\5 semestr\LB11-14\Stribog\Stribog.cpp(377,55): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+  Stribog.vcxproj -> D:\High-level prommaing\C++\5 semestr\LB11-14\Stribog\Debug\Stribog.exe
