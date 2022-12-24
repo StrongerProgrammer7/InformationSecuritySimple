@@ -10,21 +10,21 @@
         <a href="https://www.samiam.org/key-schedule.html">Implementation other author with description #2</a><br>
          <a href="https://russianblogs.com/article/5945905509/">Implementation other author with description #3(Russian language)</a><br>
          <a href="https://drive.google.com/drive/folders/1G_JTYFBFsHxnAKbtrpX7MNACOlf8vlIp?usp=sharing">Documentation (Google Drive)</a></p>
-         
     </div>
   <div align="center">
         <h3>RSA</h3>
         <p> Source code and tutorial movie from author: <b>Sofia Flynn</b><br>
         <a href="https://www.youtube.com/watch?v=LHnJfVRyJ-c&ab_channel=SofiaFlynn"> Coding RSA Encryption and Decryption </a><br>
-        <a href="https://www.youtube.com/watch?v=lAN6MqV144g&ab_channel=SofiaFlynn">Coding RSA Key Generation</a></p><br>
-        <span> My implementation using Boost!</span>
+        <a href="https://www.youtube.com/watch?v=lAN6MqV144g&ab_channel=SofiaFlynn">Coding RSA Key Generation</a><br>
+        <span> My implementation using Boost!</span></p>
     </div>
 <div align="center">
         <h3>El-gamal</h3>
         <p> Source code from author: <b>REZISTENZ!</b><br>
         <a href="https://rezistenz.blogspot.com/2012/01/elgamal.html"> Algorithm El-Gamal (Russian language) 2012 </a><br>
         </p>
-        <p><a href="https://www.youtube.com/watch?v=t_oYxcWM9QM&ab_channel=KhoaH">Demo El Gamal encryption with large number</a></p>
+        <p><a href="https://www.youtube.com/watch?v=t_oYxcWM9QM&ab_channel=KhoaH">Demo El Gamal encryption with large number</a><br>
+        <span> My implementation using Boost!</span></p>
         <span> symbol(M) < p!</span>
     </div>
      <div align="center">
@@ -41,7 +41,8 @@
         <p> Source code and description(Russian language) from author: <b>Алексей @NeverWalkAloner</b><br>
         <a href="https://habr.com/ru/post/191240/"> GOST 34.10-2018 C#(habr.com) </a><br>
         <a href="https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/"> Theory (author : ANDREA CORBELLINI</a><br>
-         <a href="https://drive.google.com/drive/folders/1E2gjTWDUZBR1kDXZ9Wygj48w5JmriajD?usp=sharing"> Documentation (Google Drive) </a>
+         <a href="https://drive.google.com/drive/folders/1E2gjTWDUZBR1kDXZ9Wygj48w5JmriajD?usp=sharing"> Documentation (Google Drive)</a><br>
+         <span> My implementation using Boost!</span>
         </p>
     </div>
     <div>
