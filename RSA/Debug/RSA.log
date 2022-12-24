@@ -1,0 +1,5 @@
+﻿  RSA.cpp
+D:\High-level prommaing\C++\5 semestr\LB11-14\RSA\RSA.cpp(146,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\RSA\RSA.cpp(154,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\RSA\RSA.cpp(160,21): warning C4018: <: несоответствие типов со знаком и без знака
+  RSA.vcxproj -> D:\High-level prommaing\C++\5 semestr\LB11-14\RSA\Debug\RSA.exe
