@@ -1,0 +1,102 @@
+﻿  GOST34-10-2018.cpp
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(38,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(97,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(109,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(125,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(183,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(202,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(239,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(614,30): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(620,47): warning C4244: аргумент: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(625,56): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(859,21): warning C4018: >: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(859,49): warning C4018: >: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(916,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(921,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1032,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1036,15): error C2177: слишком большая константа
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1064,9): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1064,9): message : рекомендуется использовать "%u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1064,9): message : рекомендуется использовать "%Iu" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1064,9): message : рекомендуется использовать "%I32u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1081,9): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1081,9): message : рекомендуется использовать "%u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1081,9): message : рекомендуется использовать "%Iu" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1081,9): message : рекомендуется использовать "%I32u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1082,9): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1082,9): message : рекомендуется использовать "%u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1082,9): message : рекомендуется использовать "%Iu" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1082,9): message : рекомендуется использовать "%I32u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1091,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1091,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1091,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1091,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1096,9): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1096,9): message : рекомендуется использовать "%u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1096,9): message : рекомендуется использовать "%Iu" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1096,9): message : рекомендуется использовать "%I32u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1100,9): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1100,9): message : рекомендуется использовать "%u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1100,9): message : рекомендуется использовать "%Iu" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1100,9): message : рекомендуется использовать "%I32u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1136,9): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1136,9): message : рекомендуется использовать "%u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1136,9): message : рекомендуется использовать "%Iu" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1136,9): message : рекомендуется использовать "%I32u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1137,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1137,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1137,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1137,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1138,9): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1138,9): message : рекомендуется использовать "%u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1138,9): message : рекомендуется использовать "%Iu" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1138,9): message : рекомендуется использовать "%I32u" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1139,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1139,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1139,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1139,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1143,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1143,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1143,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1143,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1147,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1147,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1147,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1147,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1164,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "uBig_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1164,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1164,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1164,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1165,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1165,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1165,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1165,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1166,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1166,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1166,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1166,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1167,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1167,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1167,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1167,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1168,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1168,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1168,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1168,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1173,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1181,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1181,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1181,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1181,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1185,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1185,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1185,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1185,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1186,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1186,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1186,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1186,9): message : рекомендуется использовать "%I32d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1190,9): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "big_int"
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1190,9): message : рекомендуется использовать "%d" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1190,9): message : рекомендуется использовать "%Id" в строке форматирования
+D:\High-level prommaing\C++\5 semestr\LB11-14\GOST34-10-2018\GOST34-10-2018.cpp(1190,9): message : рекомендуется использовать "%I32d" в строке форматирования
